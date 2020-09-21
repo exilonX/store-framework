@@ -96,7 +96,7 @@
             "tabId": "electronics"
         }
     },
-
+    
     "rich-text#home1": {
         "props": {
           "text": "Área do conteúdo da tab-list.item com  tabId = majorAppliances",
