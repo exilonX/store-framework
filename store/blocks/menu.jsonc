@@ -1,5 +1,5 @@
 {
-    "vtex.menu@2.x:menu#categories": {
+  "vtex.menu@2.x:menu#categories": {
       "children": [
         "menu-item#major-appliances",
         "menu-item#small-appliances",
@@ -10,6 +10,7 @@
         "orientation": "horizontal"
       }
   },
+
 
   "menu-item#major-appliances": {
       "blocks": [
