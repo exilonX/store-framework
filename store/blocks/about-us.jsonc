@@ -73,7 +73,7 @@
     },
     
     "tab-content#home": {
-        "props": [
+        "children": [
             "tab-content.item#home1",
             "tab-content.item#home2"
         ]
